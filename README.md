@@ -1,3 +1,16 @@
+# Hábitat Asistencial Seguro e Inteligente
+
+## Tabla de contenidos
+
+- [Introducción](#introducción)
+- [Descripción de la Propuesta](#descripción-de-la-propuesta)
+- [Alcance](#alcance)
+  - [Pilar 1: Monitoreo Biométrico y Ambiental No Invasivo (Radar mmWave 60 GHz)](#pilar-1-monitoreo-biométrico-y-ambiental-no-invasivo-radar-mmwave-60-ghz)
+  - [Pilar 2: Gestión y Trazabilidad de Medicación (Dispensador Inteligente)](#pilar-2-gestión-y-trazabilidad-de-medicación-dispensador-inteligente)
+  - [Pilar 3: Interfaz Conversacional con IA y Núcleo de Control Local](#pilar-3-interfaz-conversacional-con-ia-y-núcleo-de-control-local)
+
+---
+
 ## Introducción
 
 El aumento global en la expectativa de vida ha impulsado la necesidad de soluciones tecnológicas que permitan a las personas mayores envejecer en sus propios hogares (Aging in Place) de manera autónoma, digna y segura. Sin embargo, este deseo de independencia conlleva desafíos críticos: el riesgo de caídas no detectadas a tiempo, los errores en la adherencia a tratamientos médicos y la dificultad de interactuar con interfaces digitales complejas en momentos de emergencia.
@@ -20,12 +33,11 @@ Para construir este entorno protegido, la solución despliega un ecosistema sin�
 
 En lugar de funcionar como herramientas aisladas, estos tres dispositivos operan de forma orquestada para constituir una red pasiva de protección y acompañamiento en la vivienda. Su acción conjunta permite tejer una capa invisible de seguridad que previene situaciones de vulnerabilidad, respalda las rutinas esenciales de salud y mantiene un canal permanente de resguardo, transformando la vivienda en un espacio preventivo y adaptativo sin requerir el uso de cámaras, pulseras ni el aprendizaje de tecnologías complejas.
 
-
 ## Alcance
 
-Pilar 1: Monitoreo Biométrico y Ambiental No Invasivo (Radar mmWave 60 GHz)
+### Pilar 1: Monitoreo Biométrico y Ambiental No Invasivo (Radar mmWave 60 GHz)
 
-Un nodo de sensado ubicado en el ambiente que utiliza tecnología de ondas milimétricas a 60 GHz. Al operar por reflexión electromagnética de micro- movimientos:
+Un nodo de sensado ubicado en el ambiente que utiliza tecnología de ondas milimétricas a 60 GHz. Al operar por reflexión electromagnética de micro-movimientos:
 
 - Detección de Caídas: Mapea la posición del cuerpo en tres dimensiones, identificando caídas e inmovilidad a nivel del suelo en tiempo real sin requerir el uso de cámaras.
 
@@ -33,7 +45,7 @@ Un nodo de sensado ubicado en el ambiente que utiliza tecnología de ondas milim
 
 - Acondicionamiento del Entorno: Detecta la presencia exacta del usuario para gestionar la iluminación automatizada (rutas nocturnas anti-tropezones) y la climatización del espacio.
 
-## Pilar 2: Gestión y Trazabilidad de Medicación (Dispensador Inteligente)
+### Pilar 2: Gestión y Trazabilidad de Medicación (Dispensador Inteligente)
 
 Un dispositivo mecatrónico diseñado para la administración segura y controlada de fármacos:
 
@@ -43,8 +55,7 @@ Un dispositivo mecatrónico diseñado para la administración segura y controlad
 
 - Control de Stock e Inventario: Mantiene un registro dinámico del número de dosis restantes en los compartimentos, notificando con anticipación la necesidad de recarga.
 
-
-## Pilar 3: Interfaz Conversacional con IA y Núcleo de Control Local
+### Pilar 3: Interfaz Conversacional con IA y Núcleo de Control Local
 
 Un asistente de voz con procesamiento de inteligencia artificial enfocado en la usabilidad de la persona mayor:
 
