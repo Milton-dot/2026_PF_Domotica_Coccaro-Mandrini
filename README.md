@@ -33,6 +33,8 @@ Para construir este entorno protegido, la solución despliega un ecosistema sin�
 
 En lugar de funcionar como herramientas aisladas, estos tres dispositivos operan de forma orquestada para constituir una red pasiva de protección y acompañamiento en la vivienda. Su acción conjunta permite tejer una capa invisible de seguridad que previene situaciones de vulnerabilidad, respalda las rutinas esenciales de salud y mantiene un canal permanente de resguardo, transformando la vivienda en un espacio preventivo y adaptativo sin requerir el uso de cámaras, pulseras ni el aprendizaje de tecnologías complejas.
 
+![Diagrama de arquitectura](images/1.png)
+
 ## Alcance
 
 ### Pilar 1: Monitoreo Biométrico y Ambiental No Invasivo (Radar mmWave 60 GHz)
