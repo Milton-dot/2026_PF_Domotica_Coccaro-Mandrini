@@ -4,7 +4,7 @@
 
 Este proyecto desarrolla un ecosistema integrado por tres dispositivos —un radar de monitoreo no invasivo, un dispensador de medicación inteligente y una interfaz conversacional con IA— que trabajan de forma orquestada para proteger a la persona mayor sin cámaras, sin wearables y sin interfaces complejas.
 
-![Diagrama del proyecto](images/1.png)
+![Diagrama del proyecto](Media/1.png)
 
 ---
 
