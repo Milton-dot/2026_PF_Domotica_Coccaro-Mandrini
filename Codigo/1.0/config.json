@@ -1,0 +1,68 @@
+[
+    {
+        "hora": "14:35",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "14:42",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "14:48",
+        "pastilla_texto": "Pastilla A",
+        "pastilla_letra": "A",
+        "cantidad": "1"
+    },
+    {
+        "hora": "14:50",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "14:52",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "14:54",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "14:56",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "2"
+    },
+    {
+        "hora": "14:59",
+        "pastilla_texto": "Pastilla A",
+        "pastilla_letra": "A",
+        "cantidad": "2"
+    },
+    {
+        "hora": "18:47",
+        "pastilla_texto": "Pastilla B",
+        "pastilla_letra": "B",
+        "cantidad": "2"
+    },
+    {
+        "hora": "18:48",
+        "pastilla_texto": "Pastilla c",
+        "pastilla_letra": "B",
+        "cantidad": "2"
+    },
+    {
+        "hora": "20:00",
+        "pastilla_texto": "Pastilla A",
+        "pastilla_letra": "A",
+        "cantidad": "2"
+    }
+]
