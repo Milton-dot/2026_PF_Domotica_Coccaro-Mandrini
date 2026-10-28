@@ -1,0 +1,1202 @@
+[
+    {
+        "timestamp": "2026-10-23 20:30:41",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:30:54",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:31:47",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:31:58",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:33:04",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:33:14",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:35:16",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:35:27",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:37:49",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:37:59",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:39:02",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:39:13",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:39:43",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 20:39:53",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 21:00:03",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 21:00:14",
+        "mensaje": "Verificación OK: Se dispensaron 1 unidad(es) de pastilla A. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-23 21:01:24",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-23 21:02:14",
+        "mensaje": "Verificación OK: Se dispensaron 1 unidad(es) de pastilla B. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-23 21:03:19",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-23 21:04:13",
+        "mensaje": "Faltan pastillas (Detectadas: 0, Esperadas:1). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 21:04:24",
+        "mensaje": "Verificación OK: Se dispensaron 1 unidad(es) de pastilla A. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-23 21:05:15",
+        "mensaje": "Faltan pastillas (Detectadas: 1, Esperadas:2). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 21:05:25",
+        "mensaje": "¡EXCEDENTE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 21:05:28",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-23 21:08:17",
+        "mensaje": "Faltan pastillas (Detectadas: 1, Esperadas:2). Dispensando faltante: 1 unidad(es)."
+    },
+    {
+        "timestamp": "2026-10-23 21:08:29",
+        "mensaje": "¡EXCEDENTE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 21:31:19",
+        "mensaje": "Faltan algunas pastillas en el lote. Dispensando faltantes..."
+    },
+    {
+        "timestamp": "2026-10-23 21:31:33",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 21:55:42",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 21:58:30",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 22:19:31",
+        "mensaje": "Faltan algunas pastillas en el lote. Dispensando faltantes..."
+    },
+    {
+        "timestamp": "2026-10-23 22:19:51",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 22:21:41",
+        "mensaje": "Faltan algunas pastillas en el lote. Dispensando faltantes..."
+    },
+    {
+        "timestamp": "2026-10-23 22:21:54",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 22:23:30",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-23 22:24:35",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-23 22:28:28",
+        "mensaje": "Faltan algunas pastillas en el lote. Dispensando faltantes..."
+    },
+    {
+        "timestamp": "2026-10-23 22:28:40",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 22:54:28",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-23 22:55:32",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-23 22:56:37",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-23 22:56:51",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-23 22:58:29",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1, 'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-23 22:58:41",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 09:16:31",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 09:16:42",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 09:17:13",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 09:18:01",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 09:18:17",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 09:22:21",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 09:23:46",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 09:23:57",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 09:25:01",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 09:28:30",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 09:59:42",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 10:00:44",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 10:01:24",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:01:27",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:01:30",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:02:42",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 2, 'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 10:06:24",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:06:28",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:07:40",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 2, 'A': 2}..."
+    },
+    {
+        "timestamp": "2026-10-24 10:09:24",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 10:09:35",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:09:38",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:10:38",
+        "mensaje": "Se alcanzó el límite de intentos por excedente. Lote cancelado."
+    },
+    {
+        "timestamp": "2026-10-24 10:35:28",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:35:33",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 10:36:46",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 2}..."
+    },
+    {
+        "timestamp": "2026-10-24 11:05:28",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 11:05:40",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 11:06:21",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 11:06:28",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 11:06:43",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 11:07:49",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 11:08:12",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 11:09:12",
+        "mensaje": "Se alcanzó el límite de intentos por excedente. Lote cancelado."
+    },
+    {
+        "timestamp": "2026-10-24 11:25:26",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 11:25:29",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 11:26:50",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 11:27:01",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 11:28:13",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 11:29:22",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1, 'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 11:29:35",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 11:30:43",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 12:08:35",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 12:09:42",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 12:11:11",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 12:11:15",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 12:12:27",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 12:13:30",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 15:02:30",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 15:03:34",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 15:08:37",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:08:40",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:09:48",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:09:51",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:09:53",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:09:55",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:10:48",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:10:54",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:11:03",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:11:04",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:11:09",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:11:10",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:12:06",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 15:12:18",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:12:20",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:12:22",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:12:24",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:13:09",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 15:13:31",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 15:13:38",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:14:53",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:15:54",
+        "mensaje": "Se alcanzó el límite de intentos por excedente. Lote cancelado."
+    },
+    {
+        "timestamp": "2026-10-24 15:15:55",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 15:18:53",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 15:19:58",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 15:21:40",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:21:42",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:27:43",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:27:47",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:29:02",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 15:29:15",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 15:29:27",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:29:29",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 15:30:42",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 15:31:47",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 15:35:14",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 15:36:18",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 16:19:55",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:21:00",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 16:22:36",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 16:22:47",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:23:54",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 16:48:14",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:48:19",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:49:33",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:49:36",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:50:50",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:50:53",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:52:06",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:52:09",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:53:22",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:53:24",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:54:24",
+        "mensaje": "Se alcanzó el límite de intentos por excedente. Lote cancelado."
+    },
+    {
+        "timestamp": "2026-10-24 16:55:01",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:55:49",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:55:52",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 16:56:03",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 16:56:52",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:57:03",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 16:57:14",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:57:42",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:57:59",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 16:58:15",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 16:58:17",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 16:58:26",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 16:58:45",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 16:59:16",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 16:59:28",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 16:59:29",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:00:33",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 17:15:38",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:15:48",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:17:25",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1, 'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 17:17:39",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 17:17:53",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:18:56",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 17:44:39",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:44:42",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:45:56",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:47:00",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 17:49:14",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 17:49:25",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 17:49:36",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:50:39",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 17:52:18",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:52:20",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:52:57",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 17:53:08",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:53:33",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:53:35",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 17:53:59",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 17:54:09",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:54:12",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 17:54:46",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:55:13",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 17:55:30",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:55:49",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 17:55:59",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 17:56:36",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 18:01:38",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 18:02:51",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-24 18:06:00",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1, 'B': 2, 'C': 2}..."
+    },
+    {
+        "timestamp": "2026-10-24 18:06:28",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 18:06:38",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-24 18:08:26",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 18:08:41",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 18:09:48",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-24 18:11:58",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-24 18:12:09",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-24 18:13:15",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 09:23:44",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 2}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:24:06",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:24:18",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:24:31",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 09:25:37",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 09:30:37",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:30:55",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:32:31",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:32:45",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 09:34:28",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 09:35:42",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:35:51",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:37:26",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:37:39",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 09:38:55",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 09:40:37",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:40:56",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:42:31",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:42:43",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:44:20",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:44:31",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 09:45:39",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 09:50:38",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:50:57",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:51:07",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:51:12",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:52:47",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:53:00",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 09:54:05",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 09:55:38",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'A': 1, 'B': 1, 'C': 2}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:56:01",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:56:08",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:57:45",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:57:57",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 09:58:09",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:58:13",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 09:59:14",
+        "mensaje": "Se alcanzó el límite de intentos por excedente. Lote cancelado."
+    },
+    {
+        "timestamp": "2026-10-25 10:01:08",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 2}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:01:28",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:01:29",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:01:32",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:01:33",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:02:59",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:03:22",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:03:40",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 6, 'B': 2}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:04:47",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:04:49",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:04:51",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:04:52",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:05:36",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1, 'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:05:49",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:08:03",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 10:09:08",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 10:09:27",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 10:10:29",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-25 10:10:38",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 10:11:44",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 10:20:39",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 2}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:21:01",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:21:13",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:21:25",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 10:22:30",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 10:25:36",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:25:47",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 10:26:52",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 10:30:37",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:30:48",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-25 10:31:00",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-25 10:35:24",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:45:32",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-25 10:46:37",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-25 10:46:53",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-28 14:29:20",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 14:29:31",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 14:30:43",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 14:31:38",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 14:32:53",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-28 14:33:59",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-28 15:03:07",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:03:20",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:03:33",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 15:03:36",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 15:04:50",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-28 15:05:36",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:05:47",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:05:55",
+        "mensaje": "No se retiró la medicación de la bandeja después de 1 minuto."
+    },
+    {
+        "timestamp": "2026-10-28 15:05:57",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1, 'B': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:06:09",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:06:20",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-28 15:07:24",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-28 15:10:36",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'B': 1, 'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:10:48",
+        "mensaje": "Faltan algunas pastillas en el lote. Reintentando faltantes: {'C': 1}..."
+    },
+    {
+        "timestamp": "2026-10-28 15:10:59",
+        "mensaje": "Verificación OK: Se dispensaron correctamente todas las pastillas programadas. Por favor, retire las pastillas."
+    },
+    {
+        "timestamp": "2026-10-28 15:12:04",
+        "mensaje": "Confirmado: Las pastillas fueron retiradas correctamente. Sistema en espera."
+    },
+    {
+        "timestamp": "2026-10-28 15:15:37",
+        "mensaje": "¡EXCEDENTE O ERROR DE CLASE DETECTADO! NO CONSUMIR LAS PASTILLAS y devolver a las tolvas."
+    },
+    {
+        "timestamp": "2026-10-28 15:15:39",
+        "mensaje": "Esperando 1 minuto para devolver las pastillas a las tolvas."
+    }
+]
