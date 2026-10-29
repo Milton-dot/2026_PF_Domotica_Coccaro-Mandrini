@@ -1,0 +1,14 @@
+[
+    {
+        "hora": "14:35",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "08:00",
+        "pastilla_texto": "Pastilla A",
+        "pastilla_letra": "A",
+        "cantidad": "1"
+    }
+]

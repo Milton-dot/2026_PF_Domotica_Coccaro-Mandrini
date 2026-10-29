@@ -1,0 +1,39 @@
+[
+    {
+        "id": "62a1b457",
+        "mensaje": "Tengo que cocinar",
+        "tipo": "recurrente",
+        "hora": 12,
+        "minuto": 0,
+        "dias_semana": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "id": "88262069",
+        "mensaje": "Tengo que anotarme en un final",
+        "tipo": "unica",
+        "dia": 31,
+        "mes": 10,
+        "anio": 2026,
+        "hora": 22,
+        "minuto": 30,
+        "segundo": 0
+    },
+    {
+        "id": "433b9ef7",
+        "mensaje": "ir a jugar al fútbol",
+        "tipo": "recurrente",
+        "hora": 18,
+        "minuto": 0,
+        "dias_semana": [
+            5
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "4e99ecb6",
+        "mensaje": "Tomar pastilla A",
+        "tipo": "semanal",
+        "timestamp": 1793208900.0,
+        "hora": 14,
+        "minuto": 35,
+        "dias_semana": [
+            2
+        ]
+    }
+]

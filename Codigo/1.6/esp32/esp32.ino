@@ -1,0 +1,188 @@
+#include <driver/i2s.h>
+
+#define MIC_SD 32
+#define MIC_WS 25
+#define MIC_SCK 33
+#define SPK_BCLK 13
+#define SPK_LRC 4
+#define SPK_DOUT 2
+#define BOTON 26
+#define LED_PIN 27  // <--- LED configurado en el Pin 27
+
+#define REC_SAMPLE_RATE 16000
+#define SERIAL_BAUD 921600
+
+int32_t micBuf[1024];
+uint8_t spkBuf[1024];
+
+bool grabando = false;
+unsigned long lastDebounceTime = 0;
+const unsigned long debounceDelay = 250;
+
+// --- Debounce robusto por lectura sostenida ---
+// En vez de confiar en una sola lectura puntual del pin (que puede dar
+// falsos positivos por ruido eléctrico, especialmente mientras el
+// amplificador del parlante está sonando), exigimos que el pin se
+// mantenga estable en LOW durante varias lecturas consecutivas antes de
+// confirmar que es una pulsación real. El costo en tiempo es mínimo
+// (~20ms) y SOLO se paga si el pin efectivamente leyó LOW alguna vez.
+bool botonPresionadoEstable() {
+  const int LECTURAS_REQUERIDAS = 6;
+  const int INTERVALO_MS = 4;
+
+  if (digitalRead(BOTON) != LOW) {
+    return false;
+  }
+  for (int i = 0; i < LECTURAS_REQUERIDAS; i++) {
+    if (digitalRead(BOTON) != LOW) {
+      return false;  // fue ruido puntual, no una pulsación real
+    }
+    delay(INTERVALO_MS);
+  }
+  return true;
+}
+
+void setupMic() {
+  i2s_config_t cfg = {
+    .mode = (i2s_mode_t)(I2S_MODE_MASTER | I2S_MODE_RX),
+    .sample_rate = REC_SAMPLE_RATE, 
+    .bits_per_sample = I2S_BITS_PER_SAMPLE_32BIT,
+    .channel_format = I2S_CHANNEL_FMT_ONLY_LEFT, 
+    .communication_format = I2S_COMM_FORMAT_STAND_I2S,
+    .intr_alloc_flags = ESP_INTR_FLAG_LEVEL1, 
+    .dma_buf_count = 4, 
+    .dma_buf_len = 512,
+    .use_apll = false, 
+    .tx_desc_auto_clear = false, 
+    .fixed_mclk = 0
+  };
+  i2s_pin_config_t pins = {.bck_io_num=MIC_SCK, .ws_io_num=MIC_WS, .data_out_num=I2S_PIN_NO_CHANGE, .data_in_num=MIC_SD};
+  i2s_driver_install(I2S_NUM_0, &cfg, 0, NULL);
+  i2s_set_pin(I2S_NUM_0, &pins);
+}
+
+void stopMic() {
+  i2s_driver_uninstall(I2S_NUM_0);
+}
+
+void setupSpk(int rate) {
+  i2s_config_t cfg = {
+    .mode = (i2s_mode_t)(I2S_MODE_MASTER | I2S_MODE_TX),
+    .sample_rate = rate, 
+    .bits_per_sample = I2S_BITS_PER_SAMPLE_16BIT,
+    .channel_format = I2S_CHANNEL_FMT_ONLY_LEFT, 
+    .communication_format = I2S_COMM_FORMAT_STAND_I2S,
+    .intr_alloc_flags = ESP_INTR_FLAG_LEVEL1, 
+    .dma_buf_count = 4, 
+    .dma_buf_len = 512,
+    .use_apll = false, 
+    .tx_desc_auto_clear = true, 
+    .fixed_mclk = 0
+  };
+  i2s_pin_config_t pins = {.bck_io_num=SPK_BCLK, .ws_io_num=SPK_LRC, .data_out_num=SPK_DOUT, .data_in_num=I2S_PIN_NO_CHANGE};
+  i2s_driver_install(I2S_NUM_1, &cfg, 0, NULL);
+  i2s_set_pin(I2S_NUM_1, &pins);
+}
+
+void setup() {
+  Serial.begin(SERIAL_BAUD);
+  Serial.setTimeout(10);
+  pinMode(BOTON, INPUT_PULLUP);
+  
+  // Configuración del LED en Pin 27
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, LOW); // Arranca apagado
+  
+  Serial.println("READY");
+}
+
+void reproducir() {
+  uint8_t header[8];
+  int got = 0;
+  unsigned long start = millis();
+  while (got < 8 && (millis() - start < 2000)) {
+    if (Serial.available()) {
+      got += Serial.readBytes(header + got, 8 - got);
+    }
+  }
+  if (got < 8) return;
+
+  uint32_t sampleRate = header[0] | (header[1]<<8) | (header[2]<<16) | (header[3]<<24);
+  uint32_t totalBytes = header[4] | (header[5]<<8) | (header[6]<<16) | (header[7]<<24);
+
+  setupSpk(sampleRate);
+
+  uint32_t received = 0;
+  bool interrumpido = false;
+
+  while (received < totalBytes) {
+    // Si interrumpe la respuesta con el botón (con debounce robusto)
+    if (botonPresionadoEstable() && (millis() - lastDebounceTime > debounceDelay)) {
+      lastDebounceTime = millis();
+      interrumpido = true;
+      Serial.println("INTERRUPTED");
+      break;
+    }
+
+    if (Serial.available()) {
+      int chunk = min((uint32_t)sizeof(spkBuf), totalBytes - received);
+      int r = Serial.readBytes(spkBuf, chunk);
+      size_t bw = 0;
+      i2s_write(I2S_NUM_1, spkBuf, r, &bw, portMAX_DELAY);
+      received += r;
+    }
+  }
+
+  memset(spkBuf, 0, sizeof(spkBuf));
+  for (int i = 0; i < 5; i++) {
+    size_t bw = 0;
+    i2s_write(I2S_NUM_1, spkBuf, sizeof(spkBuf), &bw, portMAX_DELAY);
+  }
+
+  i2s_driver_uninstall(I2S_NUM_1);
+  
+  if (interrumpido) {
+    grabando = true;
+    setupMic();
+    digitalWrite(LED_PIN, HIGH); // Prende LED en Pin 27 para indicar que empieza a escuchar
+    Serial.println("START");
+  } else {
+    Serial.println("PLAYED");
+  }
+}
+
+void loop() {
+  if (!grabando && Serial.available() > 0 && Serial.peek() == 'p') {
+    Serial.read();
+    reproducir();
+    return;
+  }
+
+  if (botonPresionadoEstable() && (millis() - lastDebounceTime > debounceDelay)) {
+    lastDebounceTime = millis();
+    grabando = !grabando;
+
+    if (grabando) {
+      setupMic();
+      digitalWrite(LED_PIN, HIGH); // Prende LED en Pin 27 al empezar a escuchar
+      Serial.println("START");
+    } else {
+      digitalWrite(LED_PIN, LOW);  // Apaga LED en Pin 27 al terminar de escuchar
+      Serial.println("END");
+      stopMic();
+    }
+  }
+
+  if (grabando) {
+    size_t br = 0;
+    i2s_read(I2S_NUM_0, micBuf, sizeof(micBuf), &br, portMAX_DELAY);
+    int cnt = br / sizeof(int32_t);
+    for (int i = 0; i < cnt; i++) {
+      int32_t v = micBuf[i] >> 13;
+      if (v > 32767) v = 32767;
+      if (v < -32768) v = -32768;
+      int16_t s16 = (int16_t)v;
+      Serial.write((uint8_t*)&s16, 2);
+    }
+  }
+}

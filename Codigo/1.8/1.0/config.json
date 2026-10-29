@@ -1,0 +1,32 @@
+[
+    {
+        "hora": "13:05",
+        "pastilla_texto": "Pastilla A",
+        "pastilla_letra": "F",
+        "cantidad": "1"
+    },
+    {
+        "hora": "16:00",
+        "pastilla_texto": "Pastilla B",
+        "pastilla_letra": "B",
+        "cantidad": "1"
+    },
+    {
+        "hora": "20:00",
+        "pastilla_texto": "Pastilla C",
+        "pastilla_letra": "C",
+        "cantidad": "1"
+    },
+    {
+        "hora": "03:56",
+        "pastilla_texto": "Ibu",
+        "pastilla_letra": "G",
+        "cantidad": "1"
+    },
+    {
+        "hora": "08:00",
+        "pastilla_texto": "Pastilla A",
+        "pastilla_letra": "A",
+        "cantidad": "1"
+    }
+]

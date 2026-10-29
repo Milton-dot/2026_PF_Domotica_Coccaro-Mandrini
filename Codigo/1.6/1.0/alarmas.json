@@ -1,0 +1,12 @@
+[
+    {
+        "mensaje": "empezar a cocinar",
+        "hora": 20,
+        "minuto": 0,
+        "dias_semana": [
+            2
+        ],
+        "timestamp": 1793228400.0,
+        "diaria": true
+    }
+]

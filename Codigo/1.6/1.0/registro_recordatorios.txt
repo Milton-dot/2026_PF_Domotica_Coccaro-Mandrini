@@ -1,0 +1,2 @@
+[25/10/2026 21:20:27] Hora actual: 21:20 - Alarma semanal (miercoles) programada para las 20:00 ("empezar a cocinar").
+[25/10/2026 21:21:09] Hora actual: 21:21 - Recordatorio único programado para las 21:26 ("empezar a cambiarme para jugar al fútbol").
