@@ -1,0 +1,1 @@
+C:\Users\Milton\Documents\GitHub\2026_PF_Domotica_Coccaro-Mandrini\Codigo\1.8\1.0>streamlit run dashboard.py
