@@ -1,0 +1,33 @@
+[
+    {
+        "id": "e419f412",
+        "mensaje": "Ibuprofeno",
+        "tipo": "recurrente",
+        "hora": 10,
+        "minuto": 30,
+        "dias_semana": [
+            0,
+            2,
+            3,
+            5,
+            6
+        ],
+        "pastilla_texto": "Ibuprofeno",
+        "pastilla_letra": "A",
+        "cantidad": "1"
+    },
+    {
+        "id": "9733cfe1",
+        "mensaje": "Gripe",
+        "tipo": "unica",
+        "pastilla_texto": "Gripe",
+        "pastilla_letra": "B",
+        "cantidad": "2",
+        "dia": 4,
+        "mes": 11,
+        "anio": 2026,
+        "hora": 22,
+        "minuto": 30,
+        "segundo": 0
+    }
+]

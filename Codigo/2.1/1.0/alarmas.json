@@ -1,0 +1,30 @@
+[
+    {
+        "id": "d9531a9e",
+        "mensaje": "Pastilla de la noche",
+        "tipo": "recurrente",
+        "hora": 23,
+        "minuto": 0,
+        "dias_semana": [
+            0,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "239dec42",
+        "mensaje": "Despertarse para ir al trabajo",
+        "tipo": "recurrente",
+        "hora": 10,
+        "minuto": 0,
+        "dias_semana": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    }
+]
