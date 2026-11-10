@@ -1,0 +1,17 @@
+{
+    "ip": "10.129.104.81",
+    "horarios": [
+        {
+            "hora": "08:00",
+            "pastilla_letra": "A",
+            "cantidad": 1,
+            "fecha": "2026-11-07"
+        },
+        {
+            "hora": "13:46",
+            "pastilla_letra": "B",
+            "cantidad": 1,
+            "fecha": "2026-11-07"
+        }
+    ]
+}

@@ -1,0 +1,967 @@
+[
+    {
+        "timestamp": "2026-11-07 14:09:13",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-07 14:09:22",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-07 14:13:56",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-07 14:14:32",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-07 14:17:22",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-07 14:18:12",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-07 14:20:29",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-07 14:20:38",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-07 14:21:35",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-07 14:21:54",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-07 14:26:36",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-07 14:26:53",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-07 14:31:12",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-07 14:31:28",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-07 14:31:39",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-07 14:32:10",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-07 14:36:24",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-07 14:36:30",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 17:30:20",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 17:30:28",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 17:31:07",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 17:32:50",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 17:38:54",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 17:39:00",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 17:40:04",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 17:42:37",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 17:42:40",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:42:43",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:43:23",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:44:46",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:46:43",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 17:47:11",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 17:47:35",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:47:44",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:51:47",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 17:51:53",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 17:52:57",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 17:53:52",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 17:54:06",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 17:54:26",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:00:35",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 19:00:40",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 19:03:31",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:03:36",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:07:19",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:09:35",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:14:20",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 19:14:39",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 19:15:02",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:15:43",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:16:12",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:16:54",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:18:12",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:19:32",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:19:38",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:19:51",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 19:22:17",
+        "evento": "Cambio de Modo",
+        "detalle": "El sistema cambió al modo: Signos Vitales"
+    },
+    {
+        "timestamp": "2026-11-08 19:24:18",
+        "evento": "Reporte Signos Vitales",
+        "detalle": "Promedio 1 Minuto -> BPM: 83.2 lpm | RPM: 16.3 rpm"
+    },
+    {
+        "timestamp": "2026-11-08 19:25:19",
+        "evento": "Reporte Signos Vitales",
+        "detalle": "Promedio 1 Minuto -> BPM: 67.0 lpm | RPM: 15.8 rpm"
+    },
+    {
+        "timestamp": "2026-11-08 19:26:19",
+        "evento": "Reporte Signos Vitales",
+        "detalle": "Promedio 1 Minuto -> BPM: 67.0 lpm | RPM: 16.0 rpm"
+    },
+    {
+        "timestamp": "2026-11-08 19:27:19",
+        "evento": "Reporte Signos Vitales",
+        "detalle": "Promedio 1 Minuto -> BPM: 76.3 lpm | RPM: 14.8 rpm"
+    },
+    {
+        "timestamp": "2026-11-08 19:28:24",
+        "evento": "Reporte Signos Vitales",
+        "detalle": "Promedio 1 Minuto -> BPM: 79.1 lpm | RPM: 20.0 rpm"
+    },
+    {
+        "timestamp": "2026-11-08 19:29:52",
+        "evento": "Cambio de Modo",
+        "detalle": "El sistema cambió al modo: Caídas"
+    },
+    {
+        "timestamp": "2026-11-08 19:30:51",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:33:09",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:33:29",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 19:33:32",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 19:36:22",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:36:59",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:38:17",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:38:31",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:39:33",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:40:07",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:41:20",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:41:56",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:43:01",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:44:50",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:47:10",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:47:24",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:49:50",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:51:02",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:52:21",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 19:52:30",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 19:54:44",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:54:55",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 19:55:15",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 19:57:04",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 19:59:44",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 19:59:50",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:03:19",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 20:03:25",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 20:04:04",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 20:05:30",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:05:39",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:06:37",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 20:10:43",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:12:06",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:14:32",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 20:14:40",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-08 20:21:11",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:21:39",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:25:14",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:26:15",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:27:45",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:28:19",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:28:21",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:30:09",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:31:13",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:32:32",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:33:22",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:33:31",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:35:18",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:35:37",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:35:40",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:36:16",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:36:39",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:38:16",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:38:59",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:39:11",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:44:34",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:45:40",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:46:37",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:46:56",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-08 20:47:57",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:48:19",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:51:29",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:52:03",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 20:58:27",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-08 20:59:34",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-08 21:01:48",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-08 21:01:53",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-09 12:30:09",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-09 12:30:12",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-09 12:37:05",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-09 12:37:35",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-09 12:48:59",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-09 12:49:05",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-09 12:52:01",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 12:52:45",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:01:55",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:02:00",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:12:54",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-09 13:13:16",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:13:16",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-09 13:14:44",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:15:13",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:15:33",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:15:36",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:17:02",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:19:02",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:19:11",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:20:07",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:20:21",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:20:31",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:29:06",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:29:13",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:31:28",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:31:43",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:35:56",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:35:59",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:42:14",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:42:21",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:43:27",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:43:30",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:47:29",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:47:35",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:49:48",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:49:53",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:50:35",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:50:44",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:52:03",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:52:09",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:52:34",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:52:42",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:53:10",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:53:15",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:53:18",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:53:24",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:54:22",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:54:24",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:55:44",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 13:55:50",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 19:37:41",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 19:44:43",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Permanencia estática iniciada"
+    },
+    {
+        "timestamp": "2026-11-09 19:45:11",
+        "evento": "Cambio de Permanencia",
+        "detalle": "Sin permanencia estática"
+    },
+    {
+        "timestamp": "2026-11-09 19:45:22",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-09 19:45:27",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    },
+    {
+        "timestamp": "2026-11-09 19:53:26",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 19:53:45",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 19:54:10",
+        "evento": "Cambio de Presencia",
+        "detalle": "No hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 19:54:26",
+        "evento": "Cambio de Presencia",
+        "detalle": "Hay presencia"
+    },
+    {
+        "timestamp": "2026-11-09 20:00:48",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "¡Caída detectada!"
+    },
+    {
+        "timestamp": "2026-11-09 20:00:56",
+        "evento": "Cambio de Estado de Caída",
+        "detalle": "Se reestableció la caída"
+    }
+]
